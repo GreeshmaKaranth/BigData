@@ -1,7 +1,7 @@
 # Machine Translation from Kannada to Telugu
 Cloud Computing and Big Data project on Machine Translation from one regional language (Kannada) to another (Telugu). 
 
-Machine Translation pertains to translation of one natural language to other by using automated computing. MT tools are often used to translate vast amounts of information involving millions of words that could not possibly be translated the traditional way.
+ Machine Translation pertains to translation of one natural language to other by using automated computing. MT tools are often used to translate vast amounts of information involving millions of words that could not possibly be translated the traditional way.
 
 In human languages, the meaning of a sentence is constructed by composing small chunks of words together with each other, obtaining successively larger chunks with more complex meanings until the sentence is formed in its entirety. The order in which these chunks are combined creates a tree-structured hierarchy corresponding to the sentence. We refer to each sentence’s tree-structured hierarchy as a parse tree, and the phenomenon broadly as syntax.
 
@@ -24,3 +24,6 @@ Using the parse trees, a translation of a particular sentence from one word to a
 
 A detailed [report](https://github.com/GreeshmaKaranth/BigData/blob/master/Report/MachineTranslationFromKannadaToTelugu.pdf) of the project.
 
+## References
+
+Some papers related to Machine Translations. This project is based off of [StructuralProbe.pdf](https://github.com/GreeshmaKaranth/BigData/blob/master/References/StructuralProbe.pdf)
